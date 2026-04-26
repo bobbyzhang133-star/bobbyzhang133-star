@@ -1,4 +1,5 @@
-## Hi there 👋
+# Yong (Bobby) Zhang
+Game Generator - Multi-Model-GeneratorAI Current Work: Game generator that can also generate images in the game
 
 <!--
 **bobbyzhang133-star/bobbyzhang133-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
