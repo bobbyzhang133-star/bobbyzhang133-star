@@ -31,7 +31,6 @@ I build AI-powered game generation tools and investigate where small free langua
 ## 🤗 Hugging Face
 
 - 👤 Profile: [huggingface.co/bobbyzhang133-star](https://huggingface.co/bobbyzhang133-star)
-- 📦 Collection: [YOUR_COLLECTION_LINK_HERE]
 
 ---
 
