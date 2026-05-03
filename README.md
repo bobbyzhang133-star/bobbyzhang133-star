@@ -1,21 +1,38 @@
-# Yong (Bobby) Zhang
-Game Generator - Multi-Model-GeneratorAI Current Work: Game generator that can also generate images in the game
+# [Bobby Zhang]
 
-## Spaces:
-- [Game-Maker-Free](https://huggingface.co/spaces/LeafCat79/Game_Builder_Free)
-- [Game-Maker-Pro](https://huggingface.co/spaces/LeafCat79/Game_Builder_Pro)
+I build AI-powered game generation tools and investigate where small free language models break down when generating structured, executable code like HTML5 games.
 
-<!--
-**bobbyzhang133-star/bobbyzhang133-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projects & Spaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Space | Description |
+|---|---|
+| [Game Builder Free](https://huggingface.co/spaces/bobbyzhang133-star/Game_Builder_Free) | Text-to-playable-HTML5-game generator using Groq (Llama) for code, Z-Image-Engineer-style prompting for sprites, and Pollinations/FLUX for image generation — fully free, no GPU required |
+| [Game Builder Pro](https://huggingface.co/spaces/LeafCat79/Game_Builder_Pro) | Text to game generator using Qwen-Coder-3, needs alot runspace. |
+| [Definition](https://huggingface.co/spaces/LeafCat79/Definition) | A definition finder, insert the word and it will provide the definition for you. |
+
+---
+
+## 📓 Research
+
+- 📄 [Research Journal](research-journal.md) — Session-by-session log of build decisions, failures, and fixes
+- 📝 [Paper](PAPER.md) — Investigating free LLM inference limitations for executable code and image generation and how to compramise different types of generative AI into one system where they can work for each other.
+
+---
+
+## 🔧 What I'm Working On
+
+- Getting AI-generated HTML5 games to run correctly without post-generation fixes — enforcing physics, keyboard input, and image loading order through system prompt constraints
+- Evaluating free image generation pipelines (HF Inference API → Pollinations.AI) for game sprite generation without quota or credit card requirements
+
+---
+
+## 🤗 Hugging Face
+
+- 👤 Profile: [huggingface.co/bobbyzhang133-star](https://huggingface.co/bobbyzhang133-star)
+- 📦 Collection: [YOUR_COLLECTION_LINK_HERE]
+
+---
+
+*Built with Groq · Pollinations.AI · Gradio · HuggingFace Spaces*
