@@ -8,7 +8,7 @@ I build AI-powered game generation tools and investigate where small free langua
 
 | Space | Description |
 |---|---|
-| [Game Builder Free](https://huggingface.co/spaces/bobbyzhang133-star/Game_Builder_Free) | Text-to-playable-HTML5-game generator using Groq (Llama) for code, Z-Image-Engineer-style prompting for sprites, and Pollinations/FLUX for image generation — fully free, no GPU required |
+| [Game Builder Free](https://huggingface.co/spaces/LeafCat79/Game_Builder_Free) | Text-to-playable-HTML5-game generator using Groq (Llama) for code, Z-Image-Engineer-style prompting for sprites, and Pollinations/FLUX for image generation — fully free, no GPU required |
 | [Game Builder Pro](https://huggingface.co/spaces/LeafCat79/Game_Builder_Pro) | Text to game generator using Qwen-Coder-3, needs alot runspace. |
 | [Definition](https://huggingface.co/spaces/LeafCat79/Definition) | A definition finder, insert the word and it will provide the definition for you. |
 
