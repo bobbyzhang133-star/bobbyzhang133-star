@@ -16,8 +16,8 @@ I build AI-powered game generation tools and investigate where small free langua
 
 ## 📓 Research
 
-- 📄 [Research Journal]([research-journal.md](https://github.com/bobbyzhang133-star/Game-Builder-Paper/blob/0a5e9d2db915dfacae0349e2f9b95b5a5c48b955/research-journal.md)) — Session-by-session log of build decisions, failures, and fixes
-- 📝 [Paper]([PAPER.md](https://github.com/bobbyzhang133-star/Game-Builder-Paper/blob/0a5e9d2db915dfacae0349e2f9b95b5a5c48b955/PAPER.md)) — Investigating free LLM inference limitations for executable code and image generation and how to compramise different types of generative AI into one system where they can work for each other.
+- 📄 [Research Journal](https://github.com/bobbyzhang133-star/Game-Builder-Paper/blob/0a5e9d2db915dfacae0349e2f9b95b5a5c48b955/research-journal.md)) — Session-by-session log of build decisions, failures, and fixes
+- 📝 [Paper]((https://github.com/bobbyzhang133-star/Game-Builder-Paper/blob/0a5e9d2db915dfacae0349e2f9b95b5a5c48b955/PAPER.md)) — Investigating free LLM inference limitations for executable code and image generation and how to compramise different types of generative AI into one system where they can work for each other.
 
 ---
 
