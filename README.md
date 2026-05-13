@@ -12,6 +12,12 @@ I build AI-powered game generation tools and investigate where small free langua
 | [Game Builder Pro](https://huggingface.co/spaces/LeafCat79/Game_Builder_Pro) | Text to game generator using Qwen-Coder-3, needs alot runspace. |
 | [Definition](https://huggingface.co/spaces/LeafCat79/Definition) | A definition finder, insert the word and it will provide the definition for you. |
 
+| Game | Description |
+|---|---|
+| [Chicken Hell](https://bigfatcat79.itch.io/chickens-nightmare) | Night-Guard game where you are a nigh guard in Kun's fried chicken restaurant, an abnormal restaurant where the chicken's seems to be intersted in you... |
+| [One Last Bird](https://huggingface.co/spaces/LeafCat79/Game_Builder_Pro) | Text to game generator using Qwen-Coder-3, needs alot runspace. |
+
+
 ---
 
 ## 📓 Research
