@@ -15,7 +15,7 @@ I build AI-powered game generation tools and investigate where small free langua
 | Game | Description |
 |---|---|
 | [Chicken Hell](https://bigfatcat79.itch.io/chickens-nightmare) | Night-Guard game where you are a nigh guard in Kun's fried chicken restaurant, an abnormal restaurant where the chicken's seems to be intersted in you... |
-| [One Last Bird](https://huggingface.co/spaces/LeafCat79/Game_Builder_Pro) | Text to game generator using Qwen-Coder-3, needs alot runspace. |
+| [One Last Bird](https://bigfatcat79.itch.io/onelastbird) | Explore the story of onced America's symbolic birds, the Ivory-Billed wood pecker and how ignorance of deforestration caused their avoidable extinction. |
 
 
 ---
